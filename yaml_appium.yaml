@@ -1,0 +1,8 @@
+bundleId: com.58.moneybox
+automationName: XCUITest
+platformName: iOS
+platformVersion: 12.4
+udid: 5F481A5E-10B9-4EF8-846D-C1BB4D80E5AF
+deviceName: iPhone Xs
+ip: 0.0.0.0
+
